@@ -1,3 +1,15 @@
 body {
   background-color: rgb(181, 155, 136);
 }
+
+.description {
+  margin: 10px;
+}
+
+.photo {
+  margin: 10px;
+}
+
+.contact {
+  margin: 10px;
+}
